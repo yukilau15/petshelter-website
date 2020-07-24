@@ -108,9 +108,9 @@
 							<div class="py-2">
 								<h3 class="text-black">David Meyer</h3>
 								<p class="position">Chief Executive Officer</p>
-								<a href="https://www.facebook.com/"><span class="icon-facebook-square">&nbsp;</span></a>
-								<a href="https://twitter.com/"><span class="icon-twitter-square">&nbsp;</span></a>
-								<a href="https://www.linkedin.com/"><span class="icon-linkedin-square">&nbsp;</span></a>
+								<a href="https://www.facebook.com/" target="_blank><span class="icon-facebook-square">&nbsp;</span></a>
+								<a href="https://twitter.com/" target="_blank><span class="icon-twitter-square">&nbsp;</span></a>
+								<a href="https://www.linkedin.com/" target="_blank><span class="icon-linkedin-square">&nbsp;</span></a>
 							</div>
 						</div>
 					</div>
@@ -122,9 +122,9 @@
 							<div class="py-2">
 								<h3 class="text-black">Ana Deluccia</h3>
 								<p class="position">Product Associate</p>
-								<a href="https://www.facebook.com/"><span class="icon-facebook-square">&nbsp;</span></a>
-								<a href="https://twitter.com/"><span class="icon-twitter-square">&nbsp;</span></a>
-								<a href="https://www.linkedin.com/"><span class="icon-linkedin-square">&nbsp;</span></a>
+								<a href="https://www.facebook.com/" target="_blank><span class="icon-facebook-square">&nbsp;</span></a>
+								<a href="https://twitter.com/" target="_blank><span class="icon-twitter-square">&nbsp;</span></a>
+								<a href="https://www.linkedin.com/" target="_blank><span class="icon-linkedin-square">&nbsp;</span></a>
 							</div>
 						</div>
 					</div>
@@ -136,9 +136,9 @@
 							<div class="py-2">
 								<h3 class="text-black">April Harris</h3>
 								<p class="position">Director of Animal Welfare Insights</p>
-								<a href="https://www.facebook.com/"><span class="icon-facebook-square">&nbsp;</span></a>
-								<a href="https://twitter.com/"><span class="icon-twitter-square">&nbsp;</span></a>
-								<a href="https://www.linkedin.com/"><span class="icon-linkedin-square">&nbsp;</span></a>
+								<a href="https://www.facebook.com/" target="_blank><span class="icon-facebook-square">&nbsp;</span></a>
+								<a href="https://twitter.com/" target="_blank><span class="icon-twitter-square">&nbsp;</span></a>
+								<a href="https://www.linkedin.com/" target="_blank><span class="icon-linkedin-square">&nbsp;</span></a>
 							</div>
 						</div>
 					</div>
@@ -152,9 +152,9 @@
 							<div class="py-2">
 								<h3 class="text-black">Matt Christian</h3>
 								<p class="position">Director of Shelter Programs</p>
-								<a href="https://www.facebook.com/"><span class="icon-facebook-square">&nbsp;</span></a>
-								<a href="https://twitter.com/"><span class="icon-twitter-square">&nbsp;</span></a>
-								<a href="https://www.linkedin.com/"><span class="icon-linkedin-square">&nbsp;</span></a>
+								<a href="https://www.facebook.com/" target="_blank><span class="icon-facebook-square">&nbsp;</span></a>
+								<a href="https://twitter.com/" target="_blank><span class="icon-twitter-square">&nbsp;</span></a>
+								<a href="https://www.linkedin.com/" target="_blank><span class="icon-linkedin-square">&nbsp;</span></a>
 							</div>
 						</div>
 					</div>
@@ -166,9 +166,9 @@
 							<div class="py-2">
 								<h3 class="text-black">Tracy Spencer</h3>
 								<p class="position">Director of Finance &amp; HR</p>
-								<a href="https://www.facebook.com/"><span class="icon-facebook-square">&nbsp;</span></a>
-								<a href="https://twitter.com/"><span class="icon-twitter-square">&nbsp;</span></a>
-								<a href="https://www.linkedin.com/"><span class="icon-linkedin-square">&nbsp;</span></a>
+								<a href="https://www.facebook.com/" target="_blank><span class="icon-facebook-square">&nbsp;</span></a>
+								<a href="https://twitter.com/" target="_blank><span class="icon-twitter-square">&nbsp;</span></a>
+								<a href="https://www.linkedin.com/" target="_blank><span class="icon-linkedin-square">&nbsp;</span></a>
 							</div>
 						</div>
 					</div>
@@ -180,9 +180,9 @@
 							<div class="py-2">
 								<h3 class="text-black">Ryan Davis</h3>
 								<p class="position">Director of Adoption Services</p>
-								<a href="https://www.facebook.com/"><span class="icon-facebook-square">&nbsp;</span></a>
-								<a href="https://twitter.com/"><span class="icon-twitter-square">&nbsp;</span></a>
-								<a href="https://www.linkedin.com/"><span class="icon-linkedin-square">&nbsp;</span></a>
+								<a href="https://www.facebook.com/" target="_blank><span class="icon-facebook-square">&nbsp;</span></a>
+								<a href="https://twitter.com/" target="_blank><span class="icon-twitter-square">&nbsp;</span></a>
+								<a href="https://www.linkedin.com/" target="_blank><span class="icon-linkedin-square">&nbsp;</span></a>
 							</div>
 						</div>
 					</div>
