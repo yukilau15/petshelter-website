@@ -38,7 +38,7 @@
         <div class="row pt-5 mt-5 text-center">
 			<div class="col-md-12">
 				<div class="border-top pt-5">
-					<p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> <a href="#" target="_blank" >PetShelter</a> - All rights reserved</p>
+					<p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> <a href="#">PetShelter</a> - All rights reserved</p>
 				</div>
 			</div>
         </div>
