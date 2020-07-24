@@ -70,7 +70,7 @@
 							if (isset($_POST['submit'])) {
 								$search = htmlspecialchars(mysqli_real_escape_string($conn, $_POST["search"]));
 								
-								$query = "SELECT * FROM post WHERE Tag LIKE '%$search%' AND Status='published'";
+								$query = "SELECT * FROM post WHERE Tag LIKE '%$search%' AND Status='published' ORDER BY Updated DESC";
 								$search_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
 								$count = mysqli_num_rows($search_query);
 	
