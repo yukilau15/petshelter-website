@@ -16,9 +16,9 @@
 
 			<h4 class="text-black">Tim Murphy</h4>
 			<p>Senior Blog Writer</p>
-			<a href="https://www.facebook.com/"><span class="icon-facebook-square">&nbsp;</span></a>
-			<a href="https://twitter.com/"><span class="icon-twitter-square">&nbsp;</span></a>
-			<a href="https://www.linkedin.com/"><span class="icon-linkedin-square">&nbsp;</span></a>
+			<a href="https://www.facebook.com/" target="_blank><span class="icon-facebook-square">&nbsp;</span></a>
+			<a href="https://twitter.com/" target="_blank><span class="icon-twitter-square">&nbsp;</span></a>
+			<a href="https://www.linkedin.com/" target="_blank><span class="icon-linkedin-square">&nbsp;</span></a>
 		</div>
 
 		<div class="text-left"> 
